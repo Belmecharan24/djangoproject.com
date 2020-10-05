@@ -1,0 +1,4 @@
+-r dev.txt
+
+coverage==5.2.1
+requests-mock==1.7.0
